@@ -23,3 +23,13 @@ Something like http://ordertaker.com?initOrderId=ABC123.
 Another thing. Some of the changes I did yesterday was not pushed to Github. Luckily it is not that big and I was able to retrieve it on my local repo.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web/commit/7d034a69f48133f3fd699d006958a0570cf91f85)
+
+### Day 2: January 13, 2017
+
+**Today's Progress**: Added initial Menu component and its Bootstrap Modal
+
+**Thoughts:** Lame. I was only able to add a non-functioning Menu component and dealt much time on making Bootstrap modal to work. I initially added the _react-bootstrap_ plugin but later realised that there is no need to put one since the existing Bootstrap content works fine with the current React code. I am starting to think that React is not that flexible with other libraries since there exists this kind of libraries (react-bootstrap) - which is like telling you "Bruh you have many things to do in order for React to work with some random library so I'm doing you a favor by creating a plugin...".
+
+For tomorrow, I will continue and finish the Menu component. Hopefully. :)
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web/commit/7a77db5c91d4a8f57a79982682f05a9aa6ee4b8a)
