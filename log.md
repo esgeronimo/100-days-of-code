@@ -33,3 +33,13 @@ Another thing. Some of the changes I did yesterday was not pushed to Github. Luc
 For tomorrow, I will continue and finish the Menu component. Hopefully. :)
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web/commit/7a77db5c91d4a8f57a79982682f05a9aa6ee4b8a)
+
+### Day 3: January 14, 2017
+
+**Today's Progress**: Can now add additional order through Menu list
+
+**Thoughts:** The Menu modal page can now be used to put additional order on the Order list. Main problem is updating the quantity of the order item when user selects a duplicate item from the menu. The Order list should not be adding a new item for this scenario but instead increment the quantity of the duplicated item - and this is currently not working. I was able to make it work by changing the attribute _defaultValue_ of input element specific to rendering the _quantity_ value into _value_ however this make the element uneditable.
+
+For details, please refer to https://github.com/esgeronimo/ordertaker-web/blob/6d28949c04002cf159dc31f33b86f6a9840ecb0f/app/scripts/orderItem.jsx
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
