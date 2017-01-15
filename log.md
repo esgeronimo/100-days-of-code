@@ -43,3 +43,11 @@ For tomorrow, I will continue and finish the Menu component. Hopefully. :)
 For details, please refer to https://github.com/esgeronimo/ordertaker-web/blob/6d28949c04002cf159dc31f33b86f6a9840ecb0f/app/scripts/orderItem.jsx
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 4: January 15, 2017
+
+**Today's Progress**: Add Order Item through Menu list now owrking
+
+**Thoughts:** Was able to progress and finish the menu list. User will now be able to edit quantity of order item or add a new order item through the Menu list modal.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
