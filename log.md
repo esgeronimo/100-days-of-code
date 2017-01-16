@@ -51,3 +51,15 @@ For details, please refer to https://github.com/esgeronimo/ordertaker-web/blob/6
 **Thoughts:** Was able to progress and finish the menu list. User will now be able to edit quantity of order item or add a new order item through the Menu list modal.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 5: January 16, 2017
+
+**Today's Progress**: Attempt to add React-Router
+
+**Thoughts:** No progress adding the module at all. I am not really sure how I can use it once I did something like this: https://github.com/yeoman/generator-webapp/blob/master/docs/recipes/react-router.md
+
+I also attempted adding it as a component via _bower_ but I am also not sure how to continue with it because the bower just gives me a project that is required to be built first before I can get the required .JS file. Whatever.
+
+Maybe tomorrow I'll just focus on the features rather than wasting a couple of days.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
