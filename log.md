@@ -63,3 +63,11 @@ I also attempted adding it as a component via _bower_ but I am also not sure how
 Maybe tomorrow I'll just focus on the features rather than wasting a couple of days.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 6: January 17, 2017
+
+**Today's Progress**: Changed task! Created Menu Form
+
+**Thoughts:** Since I am still having trouble understanding how the _react-router_ integration should be used, I focused today's work on creating the _Menu Form_. The menu is a list of items that a _seller_ is selling. Previously, I am just using the menu to show customers all of the available items. I am re-using the _Menu_ component to implement a feature that will let the seller edit the menu. This means adding extra logic on Menu component so that it will either show customer or seller specific elements.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
