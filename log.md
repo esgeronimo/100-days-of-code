@@ -71,3 +71,16 @@ Maybe tomorrow I'll just focus on the features rather than wasting a couple of d
 **Thoughts:** Since I am still having trouble understanding how the _react-router_ integration should be used, I focused today's work on creating the _Menu Form_. The menu is a list of items that a _seller_ is selling. Previously, I am just using the menu to show customers all of the available items. I am re-using the _Menu_ component to implement a feature that will let the seller edit the menu. This means adding extra logic on Menu component so that it will either show customer or seller specific elements.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 7: January 18, 2017
+
+**Today's Progress**: Fixed issue on updated menu item during cancel
+
+**Thoughts:** Not sure if its a good practice to separate declare each menu item domain property in a component like what I did here:
+https://github.com/esgeronimo/ordertaker-web/commit/09f5426681e3d82a6fae69a35481e22b88bb92f7
+
+Fixed an issue wherein a menu item information is still updated even during trigger of cancel button on Menu Form component. 
+
+I've also add a minor improvement on the menu item list by putting a sub-text below the menu item name that will show the description value.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
