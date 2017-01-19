@@ -84,3 +84,12 @@ Fixed an issue wherein a menu item information is still updated even during trig
 I've also add a minor improvement on the menu item list by putting a sub-text below the menu item name that will show the description value.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 8: January 19, 2017 (?)
+
+**Today's Progress**: Refactoring: Stateless MenuForm
+
+**Thoughts:** First of all, this commit is like 12:58 in the morning of January 20. Haha!
+Just looking at how I can make the MenuForm "stateless". I've actually reverted back to using an object (menu item) for the MenuForm because I realised that declaring properties individually will become a mess once I manage the states of each information on the parent component. Passing information would be easier if they are grouped together, in this case a _menuItem_ object. 
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
