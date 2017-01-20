@@ -93,3 +93,11 @@ I've also add a minor improvement on the menu item list by putting a sub-text be
 Just looking at how I can make the MenuForm "stateless". I've actually reverted back to using an object (menu item) for the MenuForm because I realised that declaring properties individually will become a mess once I manage the states of each information on the parent component. Passing information would be easier if they are grouped together, in this case a _menuItem_ object. 
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 9: January 20, 2017
+
+**Today's Progress**: Refactoring: Stateless MenuForm Part 2
+
+**Thoughts:** Done refactoring MenuForm (also Menu) component. Started doing Customer component that will focus on managing the customer emails where orders will be sent.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
