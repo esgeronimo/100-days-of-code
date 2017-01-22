@@ -101,3 +101,11 @@ Just looking at how I can make the MenuForm "stateless". I've actually reverted 
 **Thoughts:** Done refactoring MenuForm (also Menu) component. Started doing Customer component that will focus on managing the customer emails where orders will be sent.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 10: January 22, 2017
+
+**Today's Progress**: Customer Component and some Fetch stuff
+
+**Thoughts:** Started creating the customer component along with understanding how the `fetch()` method will work.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
