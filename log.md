@@ -109,3 +109,13 @@ Just looking at how I can make the MenuForm "stateless". I've actually reverted 
 **Thoughts:** Started creating the customer component along with understanding how the `fetch()` method will work.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 11: January 23, 2017
+
+**Today's Progress**: Integrated React Router
+
+**Thoughts:** I was thinking of implementing something like `ordertaker.com/#/quickorder/{menu_item_id_here}`. 
+
+The original concept has email as the main communication to the customers. The email contains the list of food that can be ordered on the same day. Usually customers would just select an item on the list so it would not be a good idea to show a blank order form. Rather, why not just add a button on each item that will redirect them to the app with the specific item ordered already shown? 
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
