@@ -119,3 +119,11 @@ Just looking at how I can make the MenuForm "stateless". I've actually reverted 
 The original concept has email as the main communication to the customers. The email contains the list of food that can be ordered on the same day. Usually customers would just select an item on the list so it would not be a good idea to show a blank order form. Rather, why not just add a button on each item that will redirect them to the app with the specific item ordered already shown? 
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 12: January 24, 2017
+
+**Today's Progress**: Started implementation of Quick Order Component
+
+**Thoughts:** Started doing stuff for the _quick order_ functionality. Looks like I will need to use a mock API server to continue with the updates.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
