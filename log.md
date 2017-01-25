@@ -127,3 +127,11 @@ The original concept has email as the main communication to the customers. The e
 **Thoughts:** Started doing stuff for the _quick order_ functionality. Looks like I will need to use a mock API server to continue with the updates.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 13: January 25, 2017
+
+**Today's Progress**: Not much progress
+
+**Thoughts:** Just playing around with the implementation of quick order. Added `preOrderedItems` property to Order component which can be used to support initial list of order items.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
