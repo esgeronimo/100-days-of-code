@@ -135,3 +135,18 @@ The original concept has email as the main communication to the customers. The e
 **Thoughts:** Just playing around with the implementation of quick order. Added `preOrderedItems` property to Order component which can be used to support initial list of order items.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 14: January 27, 2017
+
+**Today's Progress**: RESET
+
+**Thoughts:** Having a Bower and Webpack is confusing. I definitely want to use the Webpack because it simply looks better to have all my scripts in a single file during deployment.
+
+So I restarted the project. Well not necessarily a restart because I will be able to consult my old implementation and _possibly_ re-use some code.
+
+The _react-webpack_ Yeoman scaffold provides answers to my problem like:
+* Always adding new .JS file on _index.html_
+* Grouping my files according to logical separation
+* An "import" and not just globally accessing classes
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
