@@ -150,3 +150,11 @@ The _react-webpack_ Yeoman scaffold provides answers to my problem like:
 * An "import" and not just globally accessing classes
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 15: January 28, 2017
+
+**Today's Progress**: NPM ALL THE THINGS!
+
+**Thoughts:** No more Bower (for now). React and all things related to Bootstrap are already added to my project through NPM.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
