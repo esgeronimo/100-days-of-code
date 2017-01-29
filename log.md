@@ -158,3 +158,15 @@ The _react-webpack_ Yeoman scaffold provides answers to my problem like:
 **Thoughts:** No more Bower (for now). React and all things related to Bootstrap are already added to my project through NPM.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 16: January 29, 2017
+
+**Today's Progress**: Fix naming of Order components
+
+**Thoughts:** Just want to make sure that Order components are logical, I fixed the component names. _OrderComponent_ no longer points to the single unit of order but instead refers to the entry point of Order. An item of order is now called an _order item_.
+
+Also, Order now handles:
+* /order - for empty order page
+* /quickorder/:qoid - for order page where a specific order item is already added.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
