@@ -170,3 +170,11 @@ Also, Order now handles:
 * /quickorder/:qoid - for order page where a specific order item is already added.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 17: January 30, 2017
+
+**Today's Progress**: Added Product Management
+
+**Thoughts:** Created product management since this will be the starting point for the creation of Menu and Order information.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
