@@ -178,3 +178,15 @@ Also, Order now handles:
 **Thoughts:** Created product management since this will be the starting point for the creation of Menu and Order information.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 18: January 31, 2017
+
+**Today's Progress**: Added Product Details
+
+**Thoughts:** Added product details component. Little by little, I am learning the best practices on implementing React components. I am finally getting used to the container and presentation component approach.
+
+Here are some good resources for learning React patterns and best practices:
+* http://reactpatterns.com/
+* https://github.com/planningcenter/react-patterns
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
