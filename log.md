@@ -195,7 +195,7 @@ Here are some good resources for learning React patterns and best practices:
 
 **Today's Progress**: Continuation of Product Details
 
-**Thoughts:** Generic `onChange` event handling for the current fields of the product details component. All I need to do is to add `name` attribute to every form field containing the corresponding product property names and basically adding this function as part of _ProductManagementComponent.js_:
+**Thoughts:** Implemented a generic `onChange` event handling for the current fields of the product details component. All I need to do is to add `name` attribute to every form field containing the corresponding product property names and basically adding this function as part of _ProductManagementComponent.js_:
 
 `this.handleProductDetailsChange = (event) => {
   this.state.selectedProduct[event.target.name] = event.target.value;
