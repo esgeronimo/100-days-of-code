@@ -205,3 +205,11 @@ Here are some good resources for learning React patterns and best practices:
 Another thing... since I am directly updating the state of `selectedProduct`, I need to clone the selected product so that I will not update the actual product included in the list. Hopefully this is not a bad practice.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 19: February 01, 2017
+
+**Today's Progress**: Still stuck in product
+
+**Thoughts:** Confusing component names and purpose. I need to rethink my implementation.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
