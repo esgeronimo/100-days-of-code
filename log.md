@@ -206,10 +206,21 @@ Another thing... since I am directly updating the state of `selectedProduct`, I 
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
 
-### Day 19: February 01, 2017
+### Day 20: February 02, 2017
 
 **Today's Progress**: Still stuck in product
 
 **Thoughts:** Confusing component names and purpose. I need to rethink my implementation.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 21: February 04, 2017
+
+**Today's Progress**: Roaming the magical world of React and Javascript
+
+**Thoughts:** Part of learning and getting familiar with a new stuff is repeating the process until you get comfortable doing it. I haven't progress on this project to be honest but I am learning a lot not just with React but with new Javascript things. I also get to think and design starting with the simplest part of the application. By the end of 100 days, I might not finish any project but I do believe that I will be able to improve my skill as a developer and be in-sync with the current technology and approaches.
+
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
