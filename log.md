@@ -224,3 +224,12 @@ Another thing... since I am directly updating the state of `selectedProduct`, I 
 
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 22: February 05, 2017
+
+**Today's Progress**: Adding features to input components
+
+**Thoughts:** Will add some features to the input component such as validation. I found this example implementation https://spin.atomicobject.com/2016/10/05/form-validation-react/. 
+
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
