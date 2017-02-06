@@ -233,3 +233,11 @@ Another thing... since I am directly updating the state of `selectedProduct`, I 
 
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 23: February 06, 2017
+
+**Today's Progress**: Minor updates on Product module
+
+**Thoughts:** Nothing much. Just clean up, introduced an component for price inputs and started re-doing product list components.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
