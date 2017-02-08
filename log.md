@@ -241,3 +241,11 @@ Another thing... since I am directly updating the state of `selectedProduct`, I 
 **Thoughts:** Nothing much. Just clean up, introduced an component for price inputs and started re-doing product list components.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 24: February 08, 2017
+
+**Today's Progress**: Product List Components Part 1
+
+**Thoughts:** I need to redo the product list implementation to make it simpler and readable. I am expecting it to be finished by tomorrow.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
