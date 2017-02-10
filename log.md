@@ -244,8 +244,16 @@ Another thing... since I am directly updating the state of `selectedProduct`, I 
 
 ### Day 24: February 08, 2017
 
-**Today's Progress**: Product List Components Part 1
+**Today's Progress**: Product List Updated Implementation
 
 **Thoughts:** I need to redo the product list implementation to make it simpler and readable. I am expecting it to be finished by tomorrow.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 25: February 10, 2017
+
+**Today's Progress**: Product Form Updated Implementation
+
+**Thoughts:** Some minor changes on product form and removed most of the warnings.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
