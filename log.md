@@ -257,3 +257,10 @@ Another thing... since I am directly updating the state of `selectedProduct`, I 
 **Thoughts:** Some minor changes on product form and removed most of the warnings.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 26: February 11, 2017
+
+**Today's Progress**: Fixed PriceInputComponent Issue
+**Thoughts:** Fixed issue where PriceInputComponent is returning string instead of number.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
