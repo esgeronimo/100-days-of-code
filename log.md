@@ -264,3 +264,10 @@ Another thing... since I am directly updating the state of `selectedProduct`, I 
 **Thoughts:** Fixed issue where PriceInputComponent is returning string instead of number.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 27: February 13, 2017
+
+**Today's Progress**: Server Calls Implemented for Product
+**Thoughts:** Using a mock server, I was able to try and start updating the container components by adding async server calls via `fetch`.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
