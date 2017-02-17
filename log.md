@@ -271,3 +271,11 @@ Another thing... since I am directly updating the state of `selectedProduct`, I 
 **Thoughts:** Using a mock server, I was able to try and start updating the container components by adding async server calls via `fetch`.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 28: February 17, 2017
+
+**Today's Progress**: ProductFormContainer Add/Update Updates
+**Thoughts:** This was a busy week for me. I was not able do some improvements on my project.
+Today, I just updated implementation of Add/Update service calls for `ProductFormContainer` as well as mock API.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
