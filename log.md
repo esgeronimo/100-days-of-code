@@ -279,3 +279,10 @@ Another thing... since I am directly updating the state of `selectedProduct`, I 
 Today, I just updated implementation of Add/Update service calls for `ProductFormContainer` as well as mock API.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 29: February 20, 2017
+
+**Today's Progress**: Delete Product and initial commit for Menu module
+**Thoughts:** Finished with initial implementation of delete for products and started with menu all over again. I believe this time, it would be a lot faster to implement the basic CRUD features since I can base it on the existing product module.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
