@@ -286,3 +286,10 @@ Today, I just updated implementation of Add/Update service calls for `ProductFor
 **Thoughts:** Finished with initial implementation of delete for products and started with menu all over again. I believe this time, it would be a lot faster to implement the basic CRUD features since I can base it on the existing product module.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 30: February 22, 2017
+
+**Today's Progress**: Added Menu Component and moved MenuManager Component to a new location
+**Thoughts:** User-experience-wise, a menu management screen should be able to easily create a new product if the user was not able to find the product he/she wants to add. Because of this, I moved MenuManager component out of the `menu` directory and create a `manage` directory. The latter will depend on Menu and Product components.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
