@@ -293,3 +293,8 @@ Today, I just updated implementation of Add/Update service calls for `ProductFor
 **Thoughts:** User-experience-wise, a menu management screen should be able to easily create a new product if the user was not able to find the product he/she wants to add. Because of this, I moved MenuManager component out of the `menu` directory and create a `manage` directory. The latter will depend on Menu and Product components.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+**Today's Progress**: Added Modal component and tried out Google Sheet API
+**Thoughts:** Added `common/ModalComponent` that uses `bootstrap modal`. I've also tried Google Sheet API and it looks like a better alternative to database for content storage.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
