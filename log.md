@@ -297,6 +297,7 @@ Today, I just updated implementation of Add/Update service calls for `ProductFor
 ### Day 31: February 25, 2017
 
 **Today's Progress**: Added Modal component and tried out Google Sheet API
+
 **Thoughts:** Added `common/ModalComponent` that uses `bootstrap modal`. I've also tried Google Sheet API and it looks like a better alternative to database for content storage for this kind of app.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
