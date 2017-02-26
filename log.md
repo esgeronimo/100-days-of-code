@@ -301,3 +301,11 @@ Today, I just updated implementation of Add/Update service calls for `ProductFor
 **Thoughts:** Added `common/ModalComponent` that uses `bootstrap modal`. I've also tried Google Sheet API and it looks like a better alternative to database for content storage for this kind of app.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 32: February 26, 2017
+
+**Today's Progress**: Product List and Create Menu using Google Sheet API
+
+**Thoughts:** Continued with Google Sheet API integration on the mock server. Product list is now coming from a created Google spreadsheet. Also started creating `Create Menu` which creates a separate sheet on the spreadsheet. This will be used to store a menu along with orders.
+
+**Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
