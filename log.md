@@ -317,3 +317,16 @@ Today, I just updated implementation of Add/Update service calls for `ProductFor
 **Thoughts:** Started doing the create order page. Re-used implementation of product list components with slight tweaks so that items can be toggle-able. I also started creating the Customer service which, for now, only retrieves the name/email of the customer.
 
 **Link to work:** [Ordertaker App](https://github.com/esgeronimo/ordertaker-web)
+
+### Day 33: March 04, 2017
+
+**Today's Progress**: Created new Repo and Create Menu Implementation
+
+**Thoughts:** I'm planning to move the API and Web projects into a single location so I created the `/ordertaker` repository. 
+The API was previously just a mock node server located on my machine but I decided to create the actual API project based on the stuff I made from the mock server source code and that includes the integration to Google Sheet API.
+
+Speaking of Sheet API, I am now able to create a menu and store it as a separate sheet on a Google spreadsheet. The sheet contains list of selected products and customer email addresses.
+
+**Link to work:** 
+* [Ordertaker Web](https://github.com/esgeronimo/ordertaker-web)
+* [Ordertaker](https://github.com/esgeronimo/ordertaker)
