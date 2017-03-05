@@ -330,3 +330,14 @@ Speaking of Sheet API, I am now able to create a menu and store it as a separate
 **Link to work:** 
 * [Ordertaker Web](https://github.com/esgeronimo/ordertaker-web)
 * [Ordertaker](https://github.com/esgeronimo/ordertaker)
+
+
+### Day 34: March 05, 2017
+
+**Today's Progress**: Loading Views for Product and Customer Components
+
+**Thoughts:** Haven't done much today aside from fixing the "loading" and "list is empty" message of Product and Customer components. Container components would be responsible for the "loading" message since this has something to do with retrieval of information from the server.
+
+**Link to work:** 
+* [Ordertaker Web](https://github.com/esgeronimo/ordertaker-web)
+* [Ordertaker](https://github.com/esgeronimo/ordertaker)
