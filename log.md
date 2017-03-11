@@ -341,3 +341,14 @@ Speaking of Sheet API, I am now able to create a menu and store it as a separate
 **Link to work:** 
 * [Ordertaker Web](https://github.com/esgeronimo/ordertaker-web)
 * [Ordertaker](https://github.com/esgeronimo/ordertaker)
+
+### Day 35: March 11, 2017
+
+**Today's Progress**: Menu (list) page created and some change on its Sheet name
+
+**Thoughts:** Finally got some time to continue with this project after a week of being busy at work. 
+The `/menu` page is created to retrieve the list of created menu sheets. Not planning to have delete or edit functionalities yet. I've also changed the naming for menu sheets created from time in millis to date in `YYYY-MM-DD` format. This will mean that menu creation for now will be limited to 1 per day.
+
+**Link to work:** 
+* [Ordertaker Web](https://github.com/esgeronimo/ordertaker-web)
+* [Ordertaker](https://github.com/esgeronimo/ordertaker)
