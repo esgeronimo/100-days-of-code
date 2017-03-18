@@ -352,3 +352,14 @@ The `/menu` page is created to retrieve the list of created menu sheets. Not pla
 **Link to work:** 
 * [Ordertaker Web](https://github.com/esgeronimo/ordertaker-web)
 * [Ordertaker](https://github.com/esgeronimo/ordertaker)
+
+### Day 36: March 18, 2017
+
+**Today's Progress**: Modal Component
+
+**Thoughts:** Added a generic modal component implementation based on https://www.w3schools.com/howto/howto_css_modals.asp.
+Busy days ongoing so I have no time to update this project.
+
+**Link to work:** 
+* [Ordertaker Web](https://github.com/esgeronimo/ordertaker-web)
+* [Ordertaker](https://github.com/esgeronimo/ordertaker)
